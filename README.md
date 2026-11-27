@@ -5,16 +5,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kavindudissanayaka" alt="kavindudissanayaka" /></a> </p>
 
-<h3 align="center">💼 Professional GitHub Profile</h3>
-
-<p align="center">
-  I also maintain a separate GitHub account for my professional software development work.
-  <br/>
-  <a href="https://github.com/KMadhuranga" target="_blank">
-    <img src="https://img.shields.io/badge/Professional_GitHub-KMadhuranga-181717?style=for-the-badge&logo=github" alt="Professional GitHub Profile"/>
-  </a>
-</p>
-
 - 🔭 I’m currently learning on **Next JS**
 
 - 💬 Ask me about **React JS & Next JS**
